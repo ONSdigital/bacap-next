@@ -1,0 +1,1 @@
+import{u as r}from"./aXXI7nFB.js";import{a as t}from"./D_-N0x7D.js";const e={get error(){return r.error},get route(){return r.route},get status(){return r.status}};t.updated.check;const a=e;export{a as p};
