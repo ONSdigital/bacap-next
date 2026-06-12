@@ -1,1 +1,0 @@
-import{u as r}from"./BW8_aBCO.js";import{a as t}from"./BWT-OZhd.js";const e={get error(){return r.error},get route(){return r.route},get status(){return r.status}};t.updated.check;const a=e;export{a as p};
