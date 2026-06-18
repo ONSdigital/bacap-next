@@ -1,1 +1,0 @@
-import{u as r}from"./BSI2NOhe.js";import{b as t}from"./CWchoalM.js";const e={get error(){return r.error},get route(){return r.route},get status(){return r.status}};t.updated.check;const a=e;export{a as p};
