@@ -1,2 +1,1 @@
-//js
-export const env={}
+export const env={"PUBLIC_APP_ENV":"preview"}

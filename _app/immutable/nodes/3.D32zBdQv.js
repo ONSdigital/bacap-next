@@ -1,2 +1,1 @@
-//js
 import"../chunks/CpsGBuet.js";import{_ as i,ag as s,M as a,aj as d,aO as p}from"../chunks/CZPDXo1j.js";import{s as f}from"../chunks/B6_794Y0.js";import{h as c}from"../chunks/BFVvUXY5.js";var _=d('<meta name="robots" content="noindex"/> <meta name="googlebot" content="indexifembedded"/>',1);function x(t,e){var o=i();c("rcuoo6",r=>{var m=_();p(2),a(r,m)});var n=s(o);f(n,()=>e.children),a(t,o)}export{x as component};

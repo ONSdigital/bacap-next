@@ -1,2 +1,1 @@
-//js
 import{a0 as w,ac as T,a$ as x,bt as E,G,e as O,S as Y}from"./CZPDXo1j.js";function n(r,s){return r===s||(r==null?void 0:r[Y])===s}function B(r={},s,i,k){var p=w.r,S=G;return T(()=>{var f,t;return x(()=>{f=t,t=[],E(()=>{n(i(...t),r)||(s(r,...t),f&&n(i(...f),r)&&s(null,...f))})}),()=>{let a=S;for(;a!==p&&a.parent!==null&&a.parent.f&O;)a=a.parent;const h=()=>{t&&n(i(...t),r)&&s(null,...t)},c=a.teardown;a.teardown=()=>{h(),c==null||c()}}}),r}export{B as b};
