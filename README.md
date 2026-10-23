@@ -1,6 +1,7 @@
 # sveltekit-starter
 
-**This repo has been archived. Its code has been merged into [BaCAP](https://github.com/ONSdigital/BaCAP/).**
+> [!IMPORTANT]
+> This repo has been archived. Its code has been merged into [BaCAP](https://github.com/ONSdigital/BaCAP/).
 
 Starter page templates using the [ONS svelte-components library](https://github.com/ONSvisual/svelte-components/).
 
